@@ -19,6 +19,6 @@ Load your app from browser and it can be install in your devie
 
 ![](img/logo.svg)
 ---
-`título:` Installable app [`SimPIL`] 24/10/22\
+`título:` Installable app [`SimPIL`] 10/22/24\
 `autor:` David G. Bonacho &nbsp;&nbsp;  [www.tizedit.com](https://www.tizedit.com)
 
