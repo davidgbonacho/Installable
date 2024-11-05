@@ -1,6 +1,6 @@
 
 # Installable app
-Make a web app installable (html or php files)
+Make a web app installable (html or php files) in order to create a PWA or SPA application.
 
 `[SimPIL are a series of ultra-simple examples of how to perform different operations with code. Uncomplicated.]`
 
