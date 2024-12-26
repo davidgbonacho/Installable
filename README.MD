@@ -1,5 +1,5 @@
 
-# Installable app
+# Installable web app
 Make a web app installable (html or php files) in order to create a PWA or SPA application.
 
 `[SimPIL are a series of ultra-simple examples of how to perform different operations with code. Uncomplicated.]`
@@ -15,10 +15,10 @@ Load your app from browser and it can be install in your device.
 - manifest.json: with the name of your web app and logo file locations
 - img: location of logo files
 
-
+[Text in Spanish here](README_ES.MD)
 
 ![](img/logo.svg)
 ---
-`título:` Installable app [`SimPIL`] 10/22/24\
+`título:` Installable web app [`SimPIL`] 10/22/24\
 `autor:` David G. Bonacho &nbsp;&nbsp;  [www.tizedit.com](https://www.tizedit.com)
 
