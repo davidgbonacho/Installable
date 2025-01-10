@@ -15,6 +15,7 @@ Load your app from browser and it can be install in your device.
 - manifest.json: with the name of your web app and logo file locations
 - img: location of logo files
 
+
 [Text in Spanish here](README_ES.MD)
 
 ![](img/logo.svg)
