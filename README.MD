@@ -10,6 +10,8 @@ Simply clone the repo in HTTPS server. (Note that the manifest is prepared to be
 ## Perform
 Load your application from the browser and it can be installed on your device. Note that the protocol must be https. Note that the correct location of the manifest.json file must be specified in the <link> tag within the <head> (and it should contain the correct location [relative to the root of the deployed site] of the referenced files)."
 
+Here is an example of the deployed code: [https://davidgbonacho.github.io/Installable_web/](https://davidgbonacho.github.io/Installable_web/)
+
 ## Files
 - index.html: an ultra-simple HTML document 
 - manifest.json: with the name of your web app and logo file locations

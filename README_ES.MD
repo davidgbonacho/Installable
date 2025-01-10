@@ -9,6 +9,8 @@ Simplemente clona el repositorio en un servidor HTTPS. (Ten en cuenta que el man
 ## Ejecución
 Carga tu aplicación desde el navegador y podrá ser instalada en tu dispositivo. Nótese que el protocolo debe ser https. Nótese que se tiene que indicar la localización correcta del archivo manifest.json indicado en tag <link> del <head> (y éste contener la localización correcta [relativa a la raíz del sitio desplegado] de los archivos que referencia)
 
+Aquí tienes un ejemplo del código deplegado: [https://davidgbonacho.github.io/Installable_web/](https://davidgbonacho.github.io/Installable_web/)
+
 ## Archivos
 - index.html: un documento HTML ultra-simple
 - manifest.json: con el nombre de tu aplicación web y las ubicaciones de los archivos del logo
