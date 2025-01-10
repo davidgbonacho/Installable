@@ -7,7 +7,7 @@ Haz que una aplicación web sea instalable (archivos HTML o PHP) para crear una 
 Simplemente clona el repositorio en un servidor HTTPS. (Ten en cuenta que el manifiesto está preparado para ejecutarse en el directorio raíz del documento, si es otro directorio, indícalo en la sentencia de carga del manifiesto en el archivo HTML/PHP).
 
 ## Ejecución
-Carga tu aplicación desde el navegador y podrá ser instalada en tu dispositivo.
+Carga tu aplicación desde el navegador y podrá ser instalada en tu dispositivo. Nótese que el protocolo debe ser https. Nótese que se tiene que indicar la localización correcta del archivo manifest.json indicado en tag <link> del <head> (y éste contener la localización correcta [relativa a la raíz del sitio desplegado] de los archivos que referencia)
 
 ## Archivos
 - index.html: un documento HTML ultra-simple
