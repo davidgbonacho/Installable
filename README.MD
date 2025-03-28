@@ -18,7 +18,7 @@ Here is an example of the deployed code: [https://davidgbonacho.github.io/Instal
 - img: location of logo files
 
 
-[Text in Spanish here](README_ES.MD)
+[Texto en español aquí](README_ES.MD)
 
 ![](img/logo.svg)
 ---
