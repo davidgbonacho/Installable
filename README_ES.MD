@@ -14,8 +14,11 @@ Aquí tienes un ejemplo del código deplegado: [https://davidgbonacho.github.io/
 ## Archivos
 - index.html: un documento HTML ultra-simple
 - manifest.json: con el nombre de tu aplicación web y las ubicaciones de los archivos del logo
-- img: ubicación de los archivos del logo
-- 
+- img: ubicación de los archivos del log
+
+
+[Text in English here](README.MD)
+
 
 ![](img/logo.svg)
 ---
