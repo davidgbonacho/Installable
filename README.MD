@@ -15,8 +15,7 @@ Here is an example of the deployed code: [https://davidgbonacho.github.io/Instal
 ## Files
 - index.html: an ultra-simple HTML document 
 - manifest.json: with the name of your web app and logo file locations
-- img: location of logo files
-
+- img: location of logo fil
 
 [Texto en español aquí](README_ES.MD)
 
