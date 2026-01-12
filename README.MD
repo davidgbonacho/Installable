@@ -13,9 +13,9 @@ Load your application from the browser and it can be installed on your device. N
 Here is an example of the deployed code: [https://davidgbonacho.github.io/Installable_web/](https://davidgbonacho.github.io/Installable_web/)
 
 ## Files
-- index.html: an ultra-simple HTML document
-- manifest.json: with the name of your web app and logo file locations
-- img: location of files that will be used as app icons
+- index.html: an ultra-simple HTML document.
+- manifest.json: with the name of your web app and logo file locations.
+- img: location of files that will be used as app icons.
 
 [Texto en español aquí](README_ES.MD)
 
