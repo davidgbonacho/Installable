@@ -16,6 +16,8 @@ Aquí tienes un ejemplo del código deplegado: [https://davidgbonacho.github.io/
 - manifest.json: con el nombre de tu aplicación web y las ubicaciones de los archivos del logo
 - img: ubicación de los archivos que serán usados como iconos de la aplicación
 
+
+> [!NOTE]
 [Text in English here](README.MD)
 
 
